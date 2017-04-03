@@ -1,4 +1,4 @@
-### cflinuxfs2 rootfs BOSH Release
+### cflinuxfs2 BOSH Release
 
 This bosh release contains the rootfs package as well as a job that will
 extract the package to `/var/vcap/packages/cflinuxfs2/rootfs`.
