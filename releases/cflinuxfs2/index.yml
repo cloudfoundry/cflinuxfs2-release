@@ -12,4 +12,6 @@ builds:
     version: 1.116.0
   7194cd18-16ad-42c2-b668-f4cd297b4fec:
     version: 1.117.0
+  44905e17-1fae-48c9-9f83-21bdaa871e02:
+    version: 1.118.0
 format-version: '2'
