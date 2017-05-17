@@ -18,4 +18,6 @@ builds:
     version: 1.119.0
   af721ba4-1ee2-41b3-a6b3-4e33c1dbae8f:
     version: 1.120.0
+  4d06d1e6-b93b-41ec-b595-ac4e3217c8dc:
+    version: 1.121.0
 format-version: '2'
