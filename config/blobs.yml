@@ -1,5 +1,5 @@
 ---
-rootfs/cflinuxfs2-1.122.0.tar.gz:
-  object_id: 0896d067-2f8e-418c-bd7f-1d3be7c5c0c4
-  sha: 36201c464c215bf604eeffd1c5a612745b8546f4
-  size: 289225982
+rootfs/cflinuxfs2-1.123.0.tar.gz:
+  object_id: 2ac25717-5512-46bd-90a7-a608714277e5
+  sha: f1eed1d41904f3c0f5789b846792fa8e559893c5
+  size: 289216426
