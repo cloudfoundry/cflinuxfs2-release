@@ -28,4 +28,6 @@ builds:
     version: 1.124.0
   07c40d7d-fefd-4863-b724-19efd8713eca:
     version: 1.125.0
+  2b6a1874-4f6f-459a-9f5a-f6e0b0f3bcaa:
+    version: 1.126.0
 format-version: '2'
