@@ -26,4 +26,6 @@ builds:
     version: 1.123.0
   ebeb8d46-51da-49ec-8a92-0f0184a8c9ef:
     version: 1.124.0
+  07c40d7d-fefd-4863-b724-19efd8713eca:
+    version: 1.125.0
 format-version: '2'
