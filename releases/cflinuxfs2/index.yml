@@ -38,4 +38,6 @@ builds:
     version: 1.129.0
   d032f548-ab05-4822-a191-4e8d45ae2ece:
     version: 1.130.0
+  60ac6113-6757-4ae8-8e65-ca1762089032:
+    version: 1.131.0
 format-version: '2'
