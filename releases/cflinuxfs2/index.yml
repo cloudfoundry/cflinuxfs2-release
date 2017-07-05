@@ -50,4 +50,6 @@ builds:
     version: 1.135.0
   117042df-6a5c-489c-ade2-43baf1540706:
     version: 1.136.0
+  45175a91-387c-439c-b971-ef88d2673ff9:
+    version: 1.137.0
 format-version: '2'
