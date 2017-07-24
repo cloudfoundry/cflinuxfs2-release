@@ -58,4 +58,6 @@ builds:
     version: 1.139.0
   da5e0662-b5fa-4236-9ea9-59fdd60cece4:
     version: 1.140.0
+  2c472515-a737-439c-b430-098675638bbd:
+    version: 1.141.0
 format-version: '2'
