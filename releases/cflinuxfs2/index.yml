@@ -60,4 +60,6 @@ builds:
     version: 1.140.0
   2c472515-a737-439c-b430-098675638bbd:
     version: 1.141.0
+  bedecee4-3e60-48e3-a5de-2390d0ec6a64:
+    version: 1.142.0
 format-version: '2'
