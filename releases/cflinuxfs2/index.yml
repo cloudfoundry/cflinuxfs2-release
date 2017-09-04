@@ -80,4 +80,6 @@ builds:
     version: 1.150.0
   82824bad-4b0c-48fb-a2cf-f6c6707d4f19:
     version: 1.151.0
+  b0ccb3db-9839-4425-bb75-e46153cece6d:
+    version: 1.152.0
 format-version: '2'
