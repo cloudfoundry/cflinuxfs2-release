@@ -10,4 +10,11 @@ packages:
 
 properties:
   cflinuxfs2-rootfs.trusted_certs:
-    description: "certficates to add to the rootfs trust store"
+    description: "Concatenation of PEM-encoded CA certficates to add to the rootfs trust store."
+    example: |
+      -----BEGIN CERTIFICATE-----
+      (contents of certificate #1)
+      -----END CERTIFICATE-----
+      -----BEGIN CERTIFICATE-----
+      (contents of certificate #2)
+      -----END CERTIFICATE-----

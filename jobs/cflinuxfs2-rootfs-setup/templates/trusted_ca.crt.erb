@@ -1,1 +1,7 @@
-<%= p("cflinuxfs2-rootfs.trusted_certs", "") %>
+<%=
+  certs = p("cflinuxfs2-rootfs.trusted_certs", "")
+
+  raise("The 'cflinuxfs2-rootfs.trusted_certs' property must be string-valued") unless certs.is_a? String
+
+  certs
+%>
