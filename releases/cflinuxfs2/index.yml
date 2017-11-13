@@ -110,4 +110,6 @@ builds:
     version: 1.165.0
   b46bdd04-b461-477b-a56c-a1b4024eb54a:
     version: 1.166.0
+  56dc8b1f-61cb-455f-b23b-a99f0cdee9db:
+    version: 1.167.0
 format-version: '2'
