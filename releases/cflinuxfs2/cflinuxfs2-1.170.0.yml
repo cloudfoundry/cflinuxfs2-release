@@ -1,0 +1,24 @@
+---
+packages:
+- name: cflinuxfs2
+  version: 0fec0b1cd505bc70189d14fd21968d63d0b12186
+  fingerprint: 0fec0b1cd505bc70189d14fd21968d63d0b12186
+  sha1: 3b9f295d90939e1cb1b40e6913957ba97fc11dfc
+  dependencies: []
+jobs:
+- name: cflinuxfs2-rootfs-setup
+  version: 6007d0ebcf196c78fd2041c823e8c878e0347495
+  fingerprint: 6007d0ebcf196c78fd2041c823e8c878e0347495
+  sha1: 8144e923f48fdb478b18710cfc52c300fb96c475
+- name: cflinuxfs2-smoke-test
+  version: c80072f7e26e5c8b3c184060ffc27e502c6be06b
+  fingerprint: c80072f7e26e5c8b3c184060ffc27e502c6be06b
+  sha1: 93d6ab7e4b9b2540821474bb034b207e17ac00ac
+license:
+  version: 2d4c7ce391d231d80fbaf56fed599c9c68603cbf
+  fingerprint: 2d4c7ce391d231d80fbaf56fed599c9c68603cbf
+  sha1: beed65907b6d125fdb6fb7e1605266399f57ec8b
+commit_hash: 6753f629
+uncommitted_changes: true
+name: cflinuxfs2
+version: 1.170.0
