@@ -53,5 +53,5 @@ to the BOSH director.
 
 2. Target your bosh director
 
-3. Run `bosh -n deploy -d rootfs-smoke-test -v director_uuid="$(bosh env --column=uuid)" manifests/manifest.yml && bosh run-errand -d rootfs-smoke-test cflinuxfs2-smoke-test`
+3. Run `bosh -n deploy -d rootfs-smoke-test manifests/manifest.yml && bosh run-errand -d rootfs-smoke-test cflinuxfs2-smoke-test`
 

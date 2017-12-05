@@ -1,6 +1,5 @@
 ---
 name: rootfs-smoke-test
-director_uuid: ((director_uuid))
 update:
   canaries: 1
   canary_watch_time: 5000-120000
